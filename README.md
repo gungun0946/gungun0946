@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/> 
-  <title> Mojowix: Web Design & Development Company | Digital Marketing </title>
+  <title> Digital Marketing </title>
   <meta name="description" content="Mojowix is a leading Digital Marketing agency and Web Design and Development Company. Providing eCommerce, SEO, SMM, Web Design and Development Services.">
   <meta itemprop="title" content="Mojowix: Web Design & Development Company | Digital Marketing">
   <meta itemprop="description" content="Mojowix is a leading Digital Marketing agency and Web Design and Development Company. Providing eCommerce, SEO, SMM, Web Design and Development Services.">
